@@ -1,0 +1,1 @@
+# Generic-class-stand-for-a-custom-vector-to-data-management
